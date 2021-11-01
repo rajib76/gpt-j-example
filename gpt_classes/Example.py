@@ -1,7 +1,7 @@
 class Example():
     """
     This class is used to create the examples as an object and then add to the
-    model before running the model
+    model before running the model.
     """
     def __init__(self, ex_input, ex_output):
         self.ex_input = ex_input
